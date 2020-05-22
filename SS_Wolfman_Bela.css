@@ -1,0 +1,134 @@
+/*navigation/sidebar*/
+/*________________________________________________*/
+nav {
+	width: 240px;
+	background-color: #901d1d;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	height: 100%;
+	text-align: center;
+	font-family: acme;
+}
+
+nav h1:hover {
+	color: #B79E38;
+}
+
+nav a:hover {
+	color: #B79E38;
+}
+
+
+nav h1{
+	margin-top: 100px;
+	margin-bottom: 0px;
+	display: block;
+	color: #e2c41d;
+	padding: none;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-family: creepster;
+	font-size: 70px;
+
+}
+
+nav a {
+	margin: 0px;
+	display: block;
+	color: #e2c41d;
+	padding: 5px;
+	text-transform: uppercase;
+	text-decoration: none;
+	/*font-size: 20px;*/
+	
+}
+
+
+#tagline {
+	margin: 0px;
+	display: block;
+	color: #e2c41d;
+	padding: 5px;
+	text-transform: uppercase;
+	font-family: creepster;
+	font-size: 38px;
+
+}
+
+#faq {
+	margin-top: 369px;
+}
+
+ #instagram {
+	width: 15%;
+	height: 15%;
+	
+}
+
+
+/*Content - 12" and over figures for sale*/
+/*_______________________________________________________________________*/
+
+body {
+	background-color: #1f1414;
+	margin: 0px;
+
+}
+
+.itemcontent {
+	/*width: 900px;*/
+	background-color: #1f1414;
+	position: fixed;
+	top: 0px;
+	left: 60%;
+	right: 0px;
+	bottom: 0px;
+	height: 100%;
+	text-align: left;
+	font-family: acme;
+
+}
+
+.details {
+	margin-left: 10%;
+	margin-right: 15%;
+	margin-top: 20%;
+	color: #e2c41d;
+
+}
+
+h2 {
+	color: #901d1d;
+}
+
+#add {
+	background-color: #e2c41d;
+	border: none;
+	width: 95px;
+	height: 40px;
+	margin-top: 50px;
+}
+
+#share {
+	background-color: #e2c41d;
+	border: none;
+	width: 75px;
+	height: 35px;
+	margin-top: 10px;
+}
+
+
+
+.images {
+	margin-left: 240px;
+	/*margin-right: 673px;*/
+	margin-right: 40%;
+}
+
+img {
+	width: 100%; 
+	padding: 10px;
+}
